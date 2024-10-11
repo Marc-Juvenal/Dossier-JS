@@ -8,7 +8,7 @@
 
   */
 
-const Name ="David"
+const Name = "David"
 const lastName = "Bruno"
 console.log(lastName); // Bruno
 
