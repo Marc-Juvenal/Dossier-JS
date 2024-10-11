@@ -31,4 +31,8 @@ let followingaccount = 1;
 followingaccount++;
 console.log(followingaccount);
 
+let Davidfollowingaccount = "Twitter";
+Davidfollowingaccount += "Instagram";
+Console.log(Davidfollowingaccount);
+
 
