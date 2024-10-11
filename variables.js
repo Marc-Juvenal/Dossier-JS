@@ -13,7 +13,7 @@ const lastName = "Bruno"
 console.log(lastName); // Bruno
 
 
-let biography = "Hi, I'm David Bruno from SF, I like to cook and meet new people."
+let Davidbiography = "Hi, I'm David Bruno from SF, I like to cook and meet new people."
 
 const Davidprofilepicture = "http://www.go.com/davif.png";
 
