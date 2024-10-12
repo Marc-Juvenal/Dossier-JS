@@ -8,12 +8,12 @@
 
   */
 
-const Name ="David"
+const Name = "David"
 const lastName = "Bruno"
 console.log(lastName); // Bruno
 
 
-let biography = "Hi, I'm David Bruno from SF, I like to cook and meet new people."
+let Davidbiography = "Hi, I'm David Bruno from SF, I like to cook and meet new people."
 
 const Davidprofilepicture = "http://www.go.com/davif.png";
 
@@ -30,5 +30,9 @@ let followingaccount = 1;
 
 followingaccount++;
 console.log(followingaccount);
+
+let Davidfollowingaccount = "Twitter";
+Davidfollowingaccount += "Instagram";
+Console.log(Davidfollowingaccount);
 
 
